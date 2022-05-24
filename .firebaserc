@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "vue-online-bank-ece80",
+    "vue-bank": "wfm-js-1b664",
+    "bank-vue-js": "vue-online-bank-ece80"
+  },
+  "targets": {}
+}
